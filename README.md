@@ -42,33 +42,6 @@ Currently seeking **internship opportunities** to apply my skills and grow in re
 
 ---
 
-## 📂 Featured Projects
-
-### ☀️ Suryodaya — IoT-Based Solar Microgrid Analysis App
-**Tech:** Flutter, Node.js, Arduino, MQTT, Embedded C, Python, MySQL  
-- Built real-time monitoring & digital-twin visualization system  
-- Implemented automated control loops  
-- Improved system efficiency by **15%**  
-- Led sensor integration, backend pipelines & dashboard logic  
-
----
-
-### ⚡ Flux-Charge — EV Charging Management System
-**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL  
-- Developed EV slot booking platform  
-- Admin station management & scheduling  
-- Complete backend + database workflow implementation  
-
----
-
-### 🧠 Inner-Echo — AI-Powered Sentiment Journal
-**Tech:** MERN Stack, Hugging Face API, Vercel  
-- Built journaling app with sentiment analysis  
-- Integrated AI APIs for emotion detection  
-- Automated deployment using Vercel  
-
----
-
 ## 🎓 Education
 - **B.E. Information Technology (2027)** — PVG’s COET  
   📊 CGPA: **8.32**
@@ -79,12 +52,12 @@ Currently seeking **internship opportunities** to apply my skills and grow in re
 ---
 
 ## 📜 Certifications
-- Python — IIT Bombay
-- Java — IIT Bombay
-- HTML — IIT Bombay
-- Advanced C++ — IIT Bombay
-- Agentic AI Workshop
-- AI Tools Workshop
+- Python — IIT Bombay  
+- Java — IIT Bombay  
+- HTML — IIT Bombay  
+- Advanced C++ — IIT Bombay  
+- Agentic AI Workshop  
+- AI Tools Workshop  
 
 ---
 
