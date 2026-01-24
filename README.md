@@ -1,31 +1,30 @@
 <h1 align="center">Hi 👋, I'm Rudraksha Shete</h1>
-<h3 align="center">B.E. IT Student | Full-Stack Developer | IoT & AI Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | IoT & AI Enthusiast</h3>
 
 <p align="center">
-📍 India &nbsp;•&nbsp;
-🎓 3rd Year Information Technology
+📍 India
 </p>
 
 ---
 
 ## 🚀 About Me
-Tech-driven IT engineering student with hands-on experience in  
+Tech-driven developer with hands-on experience in  
 **full-stack web development, IoT systems, databases, and AI integrations**.
 
 I enjoy building **production-ready applications** and embedded solutions.  
-Currently seeking **internship opportunities** to apply my skills and grow in real-world engineering environments.
+Currently focused on improving consistency and real-world engineering skills.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuDRA512004&show_icons=true&theme=tokyonight&hide=prs,issues,contribs" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuDRA512004&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RuDRA512004&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDRA512004&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDRA512004&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuDRA512004&theme=tokyonight" height="170"/>
 </p>
 
 ---
