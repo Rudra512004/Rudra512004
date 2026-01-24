@@ -8,8 +8,20 @@
 
 ## 🚀 About Me
 Tech-driven IT engineering student with hands-on experience in **full-stack web development, IoT systems, databases, and AI integrations**.  
-I enjoy building **production-ready applications** and embedded solutions that solve real-world problems.  
 Currently seeking **internship opportunities** to apply my skills and grow in real engineering environments.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RuDRA512004&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuDRA512004&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDRA512004&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
