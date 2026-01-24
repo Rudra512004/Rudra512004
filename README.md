@@ -30,12 +30,6 @@ Currently seeking **internship opportunities** to apply my skills and grow in re
 
 ---
 
-## 🎓 Education
-- **B.E. Information Technology (2027)** — PVG’s COET  
-  **CGPA:** 8.32  
-
----
-
 ## 📫 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/rudrakshashete">
