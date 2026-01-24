@@ -1,54 +1,107 @@
-## Hi there 👋
-I'm Rudraksha Shete
+# Hi 👋, I'm Rudraksha Shete
 
-🎓 B.E. IT Student | 💻 Aspiring Software Developer  
+🎓 3rd Year B.E. Information Technology Student  
+💻 Full-Stack Developer | IoT & AI Enthusiast  
 📍 India
 
 ---
 
-## 👨‍💻 About Me
-- 🌱 Currently learning **Python, Web Development & DBMS**
-- 🧠 Interested in **Machine Learning & TinyML**
-- 💪 Gym enthusiast focused on discipline & consistency
-- 🎯 Goal: Become a skilled software engineer
+## 🚀 About Me
+Tech-driven IT engineering student with hands-on experience in **full-stack web development, IoT systems, databases, and AI integrations**.  
+I enjoy building **production-ready applications** and embedded solutions that solve real-world problems.  
+Currently seeking **internship opportunities** to apply my skills and grow in real engineering environments.
 
 ---
 
-## 🛠️ Skills
-- **Languages:** Python, C, C++
-- **Web:** HTML, CSS, JavaScript
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- C, C++, Python, Java, Embedded C
+
+### 🌐 Web Development
+- HTML, CSS, JavaScript (ES6)
+- React, Node.js, Express.js
+- MERN Stack
+
+### 🗄️ Databases
+- MySQL, MongoDB
+
+### ⚙️ Tools & Platforms
+- Git, GitHub, VS Code
+- Linux, WSL, XAMPP
+- Jupyter Notebook, Eclipse
+
+### 📡 IoT & Embedded
+- Arduino IDE
+- MQTT
+- Sensor Integration
+
+### 🤖 AI / ML
+- Hugging Face API
+- Prompt Engineering
 
 ---
 
-## 📂 Projects
-- 🚗 **EV Charging Station Management System** (DBMS Mini Project)
-- 🌐 **Personal Portfolio Website**
-- 📊 Data analysis projects using Python & Power BI
+## 📂 Featured Projects
+
+### ☀️ Suryodaya — IoT-Based Solar Microgrid Analysis App
+**Tech:** Flutter, Node.js, Arduino, MQTT, Embedded C, Python, MySQL  
+- Built real-time monitoring & digital-twin visualization system  
+- Implemented automated control loops  
+- Improved system efficiency by **15%**  
+- Led sensor integration, backend pipelines & dashboard logic  
+
+---
+
+### ⚡ Flux-Charge — EV Charging Management System
+**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL  
+- Developed EV slot booking platform  
+- Admin station management & scheduling  
+- Complete backend + database workflow implementation  
+
+---
+
+### 🧠 Inner-Echo — AI-Powered Sentiment Journal
+**Tech:** MERN Stack, Hugging Face API, Vercel  
+- Built journaling app with sentiment analysis  
+- Integrated AI APIs for emotion detection  
+- Automated deployment using Vercel  
+
+---
+
+## 🎓 Education
+- **B.E. Information Technology (2027)** — PVG’s COET  
+  📊 CGPA: **8.32**
+- **Full-Stack Development Certification** — NxtWave CCBP 4.0
+- **12th HSC (Science)** — 70.5%
+- **10th SSC** — 92.4%
+
+---
+
+## 📜 Certifications
+- Python — IIT Bombay
+- Java — IIT Bombay
+- HTML — IIT Bombay
+- Advanced C++ — IIT Bombay
+- Agentic AI Workshop
+- AI Tools Workshop
+
+---
+
+## 🏆 Achievements & Leadership
+- Design & Production Team Head — **ED-CELL, PVGCOET**
+- Social Media Team Head — **LAC (2025–2026)**
+- Associate Member — **ITSA Design & Media Team**
+- Seminar Presented: **TinyML – ML on Low-Power Devices**
+- Event Organizer: LAC MUN, Code Clash, Debate Competitions, FIESTA ’24 & ’25
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/your-username
-- LinkedIn: *(add link)*
-- Email: *(optional)*
+- 🔗 LinkedIn: https://linkedin.com/in/rudrakshashete
+- 💻 GitHub: https://github.com/RuDRA512004
+- 📧 Email: rudrashete512204@gmail.com
 
 ---
 
-⭐ *Thanks for visiting my profile!*
-
-<!--
-**Rudra512004/Rudra512004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Thanks for visiting my GitHub profile!*
