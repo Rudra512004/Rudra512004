@@ -7,15 +7,6 @@
 
 ---
 
-## 🚀 About Me
-Tech-driven developer with hands-on experience in  
-**full-stack web development, IoT systems, databases, and AI integrations**.
-
-I enjoy building **production-ready applications** and embedded solutions.  
-Currently focused on improving consistency and real-world engineering skills.
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
