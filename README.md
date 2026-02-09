@@ -10,8 +10,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://YOUR-VERCEL-URL.vercel.app/api?username=rudra512004&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=rudra512004&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-jei8wg72s-rudrashete512204-3439s-projects.vercel.app/api?username=rudra512004&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="github-readme-stats-jei8wg72s-rudrashete512204-3439s-projects.vercel.app/api/top-langs/?username=rudra512004&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
