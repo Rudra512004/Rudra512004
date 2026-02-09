@@ -9,7 +9,7 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RuDRA512004&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDRA512004&layout=compact&theme=tokyonight" height="170"/>
 </p>
