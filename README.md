@@ -9,9 +9,9 @@
 
 ## 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuDRA512004&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDRA512004&layout=compact&theme=tokyonight" height="170"/>
+<p align="center">
+  <img src="https://YOUR-VERCEL-URL.vercel.app/api?username=rudra512004&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=rudra512004&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
